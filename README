@@ -1,0 +1,27 @@
+Automation Testing
+
+UI Testing: Selenium is used and the language is python with framework (Pytest)
+1-login with valid/invalid credentials.
+2-Creating a new item (e.g., a todo/user).
+3-Editing an existing item.
+4-Deleting an item.
+5-Asserting presence of expected data after actions.
+with positive and negative test cases
+
+
+APIs Testing : REST-assured is used to test the APIs and the language is python with the framework (Pytest)
+1-POST /login
+2-GET /items
+3-POST /items
+4-PUT /items/:id
+5-DELETE /items/:id
+with positive and negative test cases
+
+
+
+Run The tests:
+
+UI testing: tests/ui_test.py should be run
+APIs testing: tests/apis_test.py should be run
+
+

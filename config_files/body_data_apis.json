@@ -1,0 +1,17 @@
+{
+
+    "login_body": {"username": "admin", "password": "1234"},
+    "todos_body":  {
+        "id": 2,
+        "title": "second Todo",
+        "user": "admin"
+    },
+    "update_id_body": {"title":"updated_todos"},
+    "invalid_username_login_body": {"username": "test", "password": "1234"},
+    "invalid_pass_login_body": {"username": "admin", "password": "12"},
+    "invalid_pass_and_username_login_body": {"username": "test", "password": "12"},
+    "empty_username_body": {"username": "", "password": "1234"},
+    "empty_pass_body": {"username": "admin", "password": ""},
+    "empty_username_and_pass_body": {"username": "", "password": ""}
+
+}

@@ -1,0 +1,33 @@
+{
+
+    "login_expected_results": {
+    "success": true,
+    "username": "admin"
+},
+    "get_todos_expected_results":
+    [{
+        "id": 1,
+        "title": "updated_todos",
+        "user": "admin"
+    }],
+    "post_todos_expected_results": {
+    "id": 1753342616181,
+    "title": "second Todo",
+    "user": "admin"
+},
+    "update_id_expected_results": {
+    "id": 1,
+    "title": "updated_todos",
+    "user": "admin"
+},
+    "delete_id_expected_results":{
+        "success": true
+    },
+    "invalid_login_expected_results": {
+    "success": false,
+    "message": "Invalid credentials"
+},
+    "invalid_todos_expected_results": {
+    "message": "Todo not found"
+}
+}
