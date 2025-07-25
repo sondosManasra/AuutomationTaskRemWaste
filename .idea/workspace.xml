@@ -9,88 +9,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/apis_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <element signature="e#1#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/base_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-459">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/main_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-506">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#1#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/ui_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-612" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page_objects/home_page.py">
+        <entry file="file://$PROJECT_DIR$/automation_project/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/automation_project/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/automation_project/src/page_objects/home_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
               </folding>
@@ -99,21 +41,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page_objects/locators.py">
+        <entry file="file://$PROJECT_DIR$/automation_project/src/core/base_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="17">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest_classes/rest_methods.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/automation_project/src/tests/apis_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="18" selection-start-line="13" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="65">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,6 +92,13 @@
         <option value="$PROJECT_DIR$/core/main_functions.py" />
         <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/page_objects/home_page.py" />
+        <option value="$PROJECT_DIR$/src/automation_project/tests/apis_test.py" />
+        <option value="$PROJECT_DIR$/automation_project/src/tests/apis_test.py" />
+        <option value="$PROJECT_DIR$/automation_project/src/automation_task/page_objects/home_page.py" />
+        <option value="$PROJECT_DIR$/automation_project/src/automation_task/tests/apis_test.py" />
+        <option value="$PROJECT_DIR$/automation_project/src/automation_task/tests/ui_test.py" />
+        <option value="$PROJECT_DIR$/automation_project/src/automation_task/core/base_class_apis.py" />
+        <option value="$PROJECT_DIR$/automation_project/src/automation_task/core/base_class.py" />
       </list>
     </option>
   </component>
@@ -165,37 +114,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="automation_task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_task" type="462c0819:PsiDirectoryNode" />
+              <item name="RemWasteAutoTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemWasteAutoTask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="automation_task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_task" type="462c0819:PsiDirectoryNode" />
-              <item name="page_objects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_task" type="462c0819:PsiDirectoryNode" />
-              <item name="rest_classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation_task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation_task" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="RemWasteAutoTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemWasteAutoTask" type="462c0819:PsiDirectoryNode" />
+              <item name="automation_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/automation_project/src/tests" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -204,6 +143,11 @@
       <recent name="C:\Users\Sondos\PycharmProjects\automation_task\config_files" />
       <recent name="C:\Users\Sondos\PycharmProjects\automation_task" />
       <recent name="C:\Users\Sondos\PycharmProjects\automation_task\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\RemWasteAutoTask\automation_project" />
+      <recent name="C:\RemWasteAutoTask\automation_project\src\automation_task" />
+      <recent name="C:\RemWasteAutoTask\src\automation_project" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for tests.apis_test">
+  <component name="RunManager" selected="Python tests.pytest in apis_test.py">
     <configuration name="apis_test " type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automation_task" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,22 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for tests.apis_test" type="tests" factoryName="py.test" nameIsGenerated="true">
-      <module name="automation_task" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="C:\Users\Sondos\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.apis_test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in ui_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+    <configuration name="pytest in C:/RemWasteAutoTask/src/automation_project/tests/ui_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="automation_task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,7 +258,22 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/ui_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/automation_project/tests/ui_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in apis_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="RemWasteAutoTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Sondos\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/automation_project/src/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/automation_project/src/tests/apis_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -337,9 +281,9 @@
       <item itemvalue="Python.apis_test" />
       <item itemvalue="Python.apis_test " />
       <item itemvalue="Python.rest_methods" />
-      <item itemvalue="Python tests.pytest for tests.apis_test" />
-      <item itemvalue="Python tests.pytest in ui_test.py" />
       <item itemvalue="Python.ui_test" />
+      <item itemvalue="Python tests.pytest in apis_test.py" />
+      <item itemvalue="Python tests.pytest in C:/RemWasteAutoTask/src/automation_project/tests/ui_test.py" />
     </list>
     <recent_temporary>
       <list>
@@ -364,18 +308,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_ui_test_py - 2025.07.24 at 22h 36m 21s.xml">
-      <configuration name="pytest in ui_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_ui_test_py - 2025.07.24 at 22h 47m 48s.xml">
-      <configuration name="pytest in ui_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_ui_test_py - 2025.07.24 at 22h 51m 13s.xml">
-      <configuration name="pytest in ui_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_ui_test_py - 2025.07.24 at 22h 51m 48s.xml">
-      <configuration name="pytest in ui_test.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_tests_apis_test - 2025.07.24 at 22h 51m 53s.xml">
       <configuration name="pytest for tests.apis_test" configurationId="tests" />
     </history-entry>
@@ -394,24 +326,36 @@
     <history-entry file="pytest_for_tests_apis_test - 2025.07.24 at 23h 09m 03s.xml">
       <configuration name="pytest for tests.apis_test" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_tests_apis_test - 2025.07.25 at 10h 07m 00s.xml">
+      <configuration name="pytest for tests.apis_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_tests_apis_test - 2025.07.25 at 10h 07m 04s.xml">
+      <configuration name="pytest for tests.apis_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_C__RemWasteAutoTask_src_automation_project_tests_ui_test_py - 2025.07.25 at 10h 33m 38s.xml">
+      <configuration name="pytest in C:/RemWasteAutoTask/src/automation_project/tests/ui_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_apis_test_py - 2025.07.25 at 10h 40m 43s.xml">
+      <configuration name="pytest in apis_test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1073" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2104845" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33915806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49960285" visible="true" weight="0.54713494" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50039715" side_tool="true" weight="0.54713494" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41333333" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.33826247" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31333333" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.41589648" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" visible="true" weight="0.33826247" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -451,77 +395,16 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rest_classes/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Output/Test_Details.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/analyze_prices_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#24#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/monitoring_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/hc_regression_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/dwh_regression_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/dwh_apis_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/hc_apis_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/automation_project/rest_classes/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tests/Output/Test_Details.txt" />
+    <entry file="file://$PROJECT_DIR$/tests/analyze_prices_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/monitoring_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/hc_regression_test.py" />
+    <entry file="file://$PROJECT_DIR$/tests/dwh_regression_test.py" />
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg" />
+    <entry file="file://$PROJECT_DIR$/pytest.ini" />
+    <entry file="file://$PROJECT_DIR$/tests/dwh_apis_tests.py" />
+    <entry file="file://$PROJECT_DIR$/tests/hc_apis_test.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -529,12 +412,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/automation_project/core/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/tests/__init__.py" />
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -542,117 +421,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config_files/expected_results_apis.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config_files/project.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config_files/body_data_apis.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/base_class_apis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-183">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/base_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/main_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-506">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#1#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page_objects/home_page.py">
+    <entry file="file://$PROJECT_DIR$/src/automation_project/config_files/expected_results_apis.json" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/config_files/project.properties" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/config_files/body_data_apis.json" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/core/base_class_apis.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/core/base_class.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/core/main_functions.py" />
+    <entry file="file://$PROJECT_DIR$/README" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/page_objects/home_page.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/page_objects/locators.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/rest_classes/rest_methods.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/tests/ui_test.py" />
+    <entry file="file://$PROJECT_DIR$/src/automation_project/tests/apis_test.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/tests/ui_test.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/page_objects/locators.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/config_files/expected_results_apis.json" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/config_files/project.properties" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/page_objects/home_page.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/rest_classes/rest_methods.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/core/main_functions.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/core/base_class_apis.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/page_objects/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/core/base_class.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/tests/ui_test.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/src/automation_task/tests/apis_test.py" />
+    <entry file="file://$PROJECT_DIR$/automation_project/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation_project/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation_project/src/page_objects/home_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
             <element signature="e#0#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page_objects/locators.py">
+    <entry file="file://$PROJECT_DIR$/automation_project/src/core/base_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="17">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rest_classes/rest_methods.py">
+    <entry file="file://$PROJECT_DIR$/automation_project/src/tests/apis_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="18" selection-start-line="13" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/apis_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="e#1#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ui_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="65">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
